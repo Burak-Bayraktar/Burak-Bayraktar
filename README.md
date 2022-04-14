@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Burak-Bayraktar?tab=repositories](https://github.com/Burak-Bayraktar?tab=repositories)
 
-- 📫 How to reach me **burakbayraktar3@gmail.com**
+- 📫 How to reach me **burakbayraktr3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
