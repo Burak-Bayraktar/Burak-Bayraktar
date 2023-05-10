@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">Frontend Developer from Istanbul / Turkey</h3>
 
-- 🌱 I’m currently learning **Remix**, **NestJS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Burak-Bayraktar?tab=repositories](https://github.com/Burak-Bayraktar?tab=repositories)
 
 - 📫 How to reach me **burakbayraktr3@gmail.com**
